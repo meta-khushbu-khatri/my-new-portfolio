@@ -30,7 +30,7 @@ function Navbar() {
                 {/* Center: Navigation Links */}
                 <div className="flex justify-between gap-3 items-center">
                     <div className="hidden md:flex gap-3 text-lg">
-                        <a href="#portfolio" className="hover:text-gray-600 dark:hover:text-gray-300 transition-colors">Portfolio</a>
+                        <a href="https://github.com/meta-khushbu-khatri" className="hover:text-gray-600 dark:hover:text-gray-300 transition-colors">Portfolio</a>
                         {/* <a href="#blog" className="hover:text-gray-600 dark:hover:text-gray-300 transition-colors">Blog</a>
                         <a href="#components" className="hover:text-gray-600 dark:hover:text-gray-300 transition-colors">Components</a> */}
                     </div>
